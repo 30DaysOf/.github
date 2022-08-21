@@ -18,4 +18,5 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 
 ## Work In Progress 🚧
 
-Do check back for updates
+ * Building a reusable [template](https://github.com/30DaysOf) for community/personal projects
+ * Building a central #30Days [hub](https://github.com/microsoft/30DaysOf) for Microsoft-authored projects
