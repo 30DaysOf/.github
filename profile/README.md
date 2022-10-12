@@ -14,8 +14,8 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 | [#30DaysOfPWA](https://aka.ms/30DaysOf/PWA) | **Feb 2022** - Progressive Web Apps are traditional web apps that are progresively enhanced, using open web technologies, to enable richer native-like experiences based on device capabilities| ⏹ <br/> **Complete** |
 | [#30DaysOfSWA](https://aka.ms/30DaysOf/SWA)| **May 2022** - Azure Static Web Apps is a cloud service that automatically builds & deploys full-stack apps to Azure _directly from the codebase_, and simplifies serverless API integration | ⏹ <br/> **Complete** |
 | [#30DaysOfIOT](https://julyot.dev)| **Jul 2022** - A curated learning tour of the Internet Of Things with focus on beginners, Edge AI, Embedded Devices and Certificatons - aka #JulyOT | ⏹ <br/> **Complete** |
-| [#30DaysOfServerless](https://aka.ms/serverless-september)| **Sep 2022** - Explore Serverless on Azure from Functions-as-a-Service to Containers, Microservices, Integrations and End-to-End Solutions - part of #ServerlessSeptember |  <br/>  ▶️ **Ongoing** |
-| [#30DaysOfLearning](https://aka.ms/30DaysOf)| **Sep 2022** - Central hub for discovering #30Days projects and curricula for self-guided learning - from Cloud Advocacy + Next Gen Experiences |  <br/>  ▶️ **Ongoing** |
+| [#30DaysOfServerless](https://aka.ms/serverless-september)| **Sep 2022** - Explore Serverless on Azure from Functions-as-a-Service to Containers, Microservices, Integrations and End-to-End Solutions - part of #ServerlessSeptember |   ⏹ <br/> **Complete**|
+| [#30DaysOf Hub](https://aka.ms/30DaysOf)| **Sep 2022** - Central hub for discovering #30Days projects and curricula for self-guided learning - from Cloud Advocacy + Next Gen Experiences |  <br/>  ▶️ **Ongoing** |
 
 ## Work In Progress 🚧
 
