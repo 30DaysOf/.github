@@ -15,7 +15,7 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 | [#30DaysOfSWA](https://aka.ms/30DaysOf/SWA)| **May 2022** - Azure Static Web Apps is a cloud service that automatically builds & deploys full-stack apps to Azure _directly from the codebase_, and simplifies serverless API integration | ⏹ <br/> **Complete** |
 | [#30DaysOfIOT](https://julyot.dev)| **Jul 2022** - A curated learning tour of the Internet Of Things with focus on beginners, Edge AI, Embedded Devices and Certificatons - aka #JulyOT | ⏹ <br/> **Complete** |
 | [#30DaysOfServerless](https://aka.ms/serverless-september)| **Sep 2022** - Explore Serverless on Azure from Functions-as-a-Service to Containers, Microservices, Integrations and End-to-End Solutions - part of #ServerlessSeptember |   ⏹ <br/> **Complete**|
-| [#30DaysOfLearning](https://aka.ms/30DaysOf)| **Sep 2022** - Central hub for discovering #30Days projects and curricula for self-guided learning - from Cloud Advocacy + Next Gen Experiences |  <br/>  ▶️ **Complete** |
+| [#30DaysOfLearning](https://aka.ms/30DaysOf)| **Oct 2022** - Central hub for discovering #30Days projects and curricula for self-guided learning - from Cloud Advocacy + Next Gen Experiences |  <br/> ⏹ **Complete** |
 | [#30DaysOfCloudNative](https://aka.ms/cnny)| **Jan 2023** - Themed month of #CloudNativeNewYear focused on Cloud-native infra like Kubernetes |  <br/>  ▶️ **Ongoing** |
 | [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** - Themed month of #LowCodeFebruary focused on Power Platform and Fusion Development |  <br/>  ▶️ **Ongoing** |
 
