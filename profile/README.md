@@ -10,17 +10,18 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 
 | Topic | Description | Status | 
 |:---|:---|:---|
-| [#30DaysOfPlaywright](https://aka.ms/30DaysOf/Playwright) | **Dec 2021** - Themed month. Focus on Playwright. Individual project. |  🟧 **Paused** | 
-| [#30DaysOfPWA](https://aka.ms/30DaysOf/PWA) | **Feb 2022** - Themed month. Focus on Progressive Web Apps. With Windows Dev PG. | ✅ **Done** |
-| [#30DaysOfSWA](https://aka.ms/30DaysOf/SWA)| **May 2022** - Themed month. Focus on Azure Static Web Apps. With Static Web Apps PG. |✅ **Done** |
-| [#30DaysOfIOT](https://julyot.dev)| **Jul 2022** - Themed month. Focus on Internet of Things (aka #JulyOT). With IoT PG, CA. | ✅ **Done** |
-| [#30DaysOfServerless](https://aka.ms/serverless-september)| **Sep 2022** - Themed month. Focus on Serverless on Azure. With Cloud Native PMM, PG. |  ✅  **Done** |
-| [#30DaysOfLearning](https://github.com/microsoft/30daysof)| **Oct 2022** - Central Hub for #30Days. Focus on Learning. With Next Gen Experiences. |  ⬜ **Archived** |
-| [#30DaysOfCloudNative](https://aka.ms/cnny)| **Jan 2023** - Themed month. Focus on Cloud Native (AKS). With Cloud Native PMM, CA. | ✅ **Done** |
-| [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** - Themed Month. Focus on Power Platforms. With Power Platforms PG, CA |  ✅  **Done** |
-| [#30DaysOfAI](https://aka.ms/ai-april)| **Apr 2023** - Themed month. Focus on AI (aka #AIApril). Reused platform, assets. | ✅  **Done** |
-| [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** - Themed month. Focus on Intelligent Apps. With Cloud Native PMM, CA.  | ✅  **Transferred** |
-| [#30DaysOfResponsibleAI](https://30daysof.github.io/responsible-ai) | **Mar 2024** - Themed month. Focus on Responsible AI. | 🅿️  **In Planning** |
+| [#30DaysOfPlaywright](https://aka.ms/30DaysOf/Playwright) | **Dec 2021** · Themed month · Focus on Playwright · Individual project|  🟧 **Paused** | 
+| [#30DaysOfPWA](https://aka.ms/30DaysOf/PWA) | **Feb 2022** · Themed month · Focus on Progressive Web Apps · Windows Dev PG. | ✅ **Done** |
+| [#30DaysOfSWA](https://aka.ms/30DaysOf/SWA)| **May 2022** ·  Themed month ·  Focus on Azure Static Web Apps. Static Web Apps PG. |✅ **Done** |
+| [#30DaysOfIOT](https://julyot.dev)| **Jul 2022** ·  Themed month. Focus on Internet of Things (aka #JulyOT) ·  IoT PG. | ✅ **Done** |
+| [#30DaysOfServerless](https://aka.ms/serverless-september)| **Sep 2022** ·  Themed month. Focus on Serverless on Azure ·  Cloud Native PMM, PG. |  ✅  **Done** |
+| [#30DaysOfLearning](https://github.com/microsoft/30daysof)| **Oct 2022** · Central Hub for #30Days ·  Focus on Learning. Next Gen Experiences. |  ⬜ **Archived** |
+| [#30DaysOfCloudNative](https://aka.ms/cnny)| **Jan 2023** - Themed month ·  Focus on Cloud Native (AKS) ·  Cloud Native PMM. | ✅ **Done** |
+| [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** · Themed Month ·  Focus on Power Platforms ·  ower Platforms PG. |  ✅  **Done** |
+| [#30DaysOfAI](https://aka.ms/ai-april)| **Apr 2023** ·  Themed month · Focus on AI (aka #AIApril) ·  AI/ML PG. | ✅  **Done** |
+| [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** ·  Themed month · Focus on Intelligent Apps ·  Cloud Native PMM  | ✅  **Transferred** |
+| [#30DaysOfIA](https://aka.ms/FallForIA) | **Feb 2024** · Themed month · Focus on Intelligent Apps · Cloud Native PMM  | 🅿️  **In Planning** |
+| [#30DaysOfResponsibleAI](https://30daysof.github.io/responsible-ai) | **Mar 2024** ·  Themed month · Focus on Responsible AI · AI Advocacy | 🅿️  **In Planning** |
 | | |
 
 
