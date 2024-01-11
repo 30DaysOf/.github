@@ -19,7 +19,7 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 | [#30DaysOfCloudNative](https://aka.ms/cnny)| **Jan 2023** - Themed month. Focus on Cloud Native (AKS). With Cloud Native PMM, CA. | ✅ **Done** |
 | [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** - Themed Month. Focus on Power Platforms. With Power Platforms PG, CA |  ✅  **Done** |
 | [#30DaysOfAI](https://aka.ms/ai-april)| **Apr 2023** - Themed month. Focus on AI (aka #AIApril). Reused platform, assets. | ✅  **Done** |
-| [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** - Themed month. Focus on Intelligent Apps, E2E. With Cloud Native PMM, CA.  | ✅  **Transferred** |
+| [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** - Themed month. Focus on Intelligent Apps. With Cloud Native PMM, CA.  | ✅  **Transferred** |
 | [#30DaysOfResponsibleAI](https://30daysof.github.io/responsible-ai) | **Mar 2024** - Themed month. Focus on Responsible AI. | 🅿️  **In Planning** |
 | | |
 
