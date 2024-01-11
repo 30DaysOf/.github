@@ -20,8 +20,9 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 | [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** · Themed Month ·  Focus on Power Platforms ·  ower Platforms PG. |  ✅  **Done** |
 | [#30DaysOfAI](https://aka.ms/ai-april)| **Apr 2023** ·  Themed month · Focus on AI (aka #AIApril) ·  AI/ML PG. | ✅  **Done** |
 | [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** ·  Themed month · Focus on Intelligent Apps ·  Cloud Native PMM  | ✅  **Transferred** |
-| [#30DaysOfIA](https://aka.ms/FallForIA) | **Feb 2024** · Themed month · Focus on Intelligent Apps · Cloud Native PMM  | 🅿️  **In Planning** |
-| [#30DaysOfResponsibleAI](https://30daysof.github.io/responsible-ai) | **Mar 2024** ·  Themed month · Focus on Responsible AI · AI Advocacy | 🅿️  **In Planning** |
+| #30DaysOf Intelligent Apps | **Feb-Mar 2024** · Themed month · Focus on Intelligent Apps · Cloud Native PMM  | 🅿️  **In Planning** |
+| #14DaysOf Data Science | **Feb-Mar 2024** · Themed month · Focus on Data Science · Python + AI Advocacy  | 🅿️  **In Planning** |
+| #30DaysOf Responsible AI | **Mar-Apr 2024** ·  Themed month · Focus on Responsible AI · AI Advocacy | 🅿️  **In Planning** |
 | | |
 
 
