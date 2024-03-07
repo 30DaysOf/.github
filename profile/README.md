@@ -10,7 +10,7 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 
 | Topic | Description | Status | 
 |:---|:---|:---|
-| [#30DaysOfPlaywright](https://aka.ms/30DaysOf/Playwright) | **Dec 2021** · Themed month · Focus on Playwright · Individual project|  🟧 **Paused** | 
+| [#30DaysOfPlaywright](https://aka.ms/30DaysOf/Playwright) | **Dec 2021** · Themed month · Focus on Playwright · Individual project|  ⏹ **Stopped** | 
 | [#30DaysOfPWA](https://aka.ms/30DaysOf/PWA) | **Feb 2022** · Themed month · Focus on Progressive Web Apps · Windows Dev PG. | ✅ **Done** |
 | [#30DaysOfSWA](https://aka.ms/30DaysOf/SWA)| **May 2022** ·  Themed month ·  Focus on Azure Static Web Apps. Static Web Apps PG. |✅ **Done** |
 | [#30DaysOfIOT](https://julyot.dev)| **Jul 2022** ·  Themed month. Focus on Internet of Things (aka #JulyOT) ·  IoT PG. | ✅ **Done** |
@@ -20,9 +20,10 @@ Yes, that was the simple motivation and inspiration for the projects that jumpst
 | [#30DaysOfLowCode](https://aka.ms/lowcode-february)| **Feb 2023** · Themed Month ·  Focus on Power Platforms ·  ower Platforms PG. |  ✅  **Done** |
 | [#30DaysOfAI](https://aka.ms/ai-april)| **Apr 2023** ·  Themed month · Focus on AI (aka #AIApril) ·  AI/ML PG. | ✅  **Done** |
 | [#30DaysOfIA](https://aka.ms/FallForIA) | **Sep 2023** ·  Themed month · Focus on Intelligent Apps ·  Cloud Native PMM  | ✅  **Transferred** |
-| #30DaysOf Intelligent Apps | **Feb-Mar 2024** · Themed month · Focus on Intelligent Apps · Cloud Native PMM  | 🅿️  **In Planning** |
-| #14DaysOf Data Science | **Feb-Mar 2024** · Themed month · Focus on Data Science · Python + AI Advocacy  | 🅿️  **In Planning** |
-| #30DaysOf Responsible AI | **Mar-Apr 2024** ·  Themed month · Focus on Responsible AI · AI Advocacy | 🅿️  **In Planning** |
+| [#60DaysOf Intelligent Apps](https://aka.ms/ai-studio/intelligent-apps) | **Feb-Apr 2024** · Themed month · Focus on Intelligent Apps · Cloud Native PMM  | ▶️ **In Progress** |
+| [#14DaysOf Data Science](https://aka.ms/2024/data-science-recipes) | **Mar 2024** · Themed month · Focus on Data Science · Python + AI Advocacy  | ▶️ **In Progress** |
+| [#30DaysOf Hugging Face](https://30DaysOf.github.io/hugging-face) | **Mar-Apr 2024** · Learning Journey · Focus on Hugging Face · Individual Project  | 💡 **In Plannings** |
+| [#30DaysOf Responsible AI]() | **May 2024** ·  Themed month · Focus on Responsible AI · Individual Project |  ⏸ **Paused** | 
 | | |
 
 
